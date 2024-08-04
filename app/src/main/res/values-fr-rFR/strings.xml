@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_home">Accueil</string>
+    <string name="menu_gallery">Gallerie</string>
+    <string name="button_update_events">Mettre à jour les évènements</string>
+    <string name="event_list">Évènements</string>
+    <string name="favorites">Favoris</string>
+    <string name="quiz">Quizz</string>
+    <string name="settings">Paramètres</string>
+    <string name="filter_date_asc">Date ascendante</string>
+    <string name="filter_date_des">Date descendante</string>
+    <string name="filter_popularity_asc">Popularité ascendante</string>
+    <string name="filter_popularity_des">Popularité descendante</string>
+    <string name="related_events">Évènements apparentés</string>
+    <string name="loading">En cours de chargement, patientez !</string>
+    <string name="wip">Cette option n\'est pas encore terminée…</string>
+    <string name="bc">%1$s avant Jésus Christ</string>
+    <string name="ac">L\'an %1$s</string>
+    <string name="different_date">%1$s à %2$s</string>
+    <string name="full_date">%1$s/%2$s/%3$s</string>
+    <string name="game_over">Fin de la partie !</string>
+    <string name="final_score">Votre score : %1$d</string>
+    <string name="restart">Recommencer</string>
+    <string name="previous_question">La question était : %1$s</string>
+    <string name="previous_question_answer">La bonne réponse était : %1$s</string>
+    <string name="date_from_to">De %s à %s</string>
+    <string name="permission_request_title">Permission requise !</string>
+    <string name="permission_location_desc">L\'application a besoin d\'accéder aux coordonnées GPS, pour signaler les évènements à proximité.</string>
+    <string name="permission_notification_desc">L\'application a besoin de votre permission pour l\'envoi de notifications afin de vous informer lorsque vous êtes proche d\'un évènement historique et pour vous informer de l\'évènement du jour et les évènements à proximité.</string>
+    <string name="notif_location_title">Évènement historique à proximiter !</string>
+    <string name="notif_location_short">Vous êtes proche d\'un lieu où c\'est déroulé...</string>
+    <string name="notif_location_long">Vous êtes proche d\'un lieu où c\'est déroulé l\'évènement %s.\\nCliquez pour en savoir plus !</string>
+    <string name="notif_daily_event_title">Souvenez vous !</string>
+    <string name="notif_daily_event_short">Rappelez vous de cet évènement qui c\'est déroulé...</string>
+    <string name="notif_daily_event_long">Rappelez vous de cet évènement qui c\'est déroulé le %s: %s.\\nCliquez pour en savoir plus !</string>
+    <string name="checkboxLocationEvent">Activer la notification en cas d\'événement à proximité</string>
+    <string name="checkboxDailyEvent">Activer la notification de l\'événement quotidien</string>
+    <string name="checkboxUpdaterEvent">Activer la mise à jour automatique des événements tout les jours</string>
+    <string name="updating_state_setting">En cours...</string>
+    <string name="updated_date_state_setting">Dernière mise à jour le %s</string>
+</resources>
